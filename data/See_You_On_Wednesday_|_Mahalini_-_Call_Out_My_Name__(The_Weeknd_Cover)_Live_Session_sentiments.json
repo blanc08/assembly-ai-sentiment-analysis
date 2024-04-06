@@ -1,0 +1,50 @@
+[
+    {
+        "text": "Call up my name we found each other I held you out of the broken you give me comfort falling for you was my mistakes I brought you on top brought you one to I claimed you were so proud and openly.",
+        "start": 9400,
+        "end": 51704,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8111173510551453,
+        "speaker": null
+    },
+    {
+        "text": "Wear thunder up where it turns around claimed you were so round and old bellies I follow one day you love my name I kiss you so gently I want you to stay I want you to stay I told you don't want me but why can't you wait why can't you wait till I phone I'll be all mine I said I'm feeling nothing baby but I lied.",
+        "start": 52364,
+        "end": 113584,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.546598494052887,
+        "speaker": null
+    },
+    {
+        "text": "I almost got a piece of myself for life cause I was just not a piss though so you blame out your mind you're just wasting my time you're on top how put your own top.",
+        "start": 114844,
+        "end": 132354,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8526880145072937,
+        "speaker": null
+    },
+    {
+        "text": "I claimed you so proud and openly baby where songs are old where songs are old.",
+        "start": 132694,
+        "end": 143114,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6804646253585815,
+        "speaker": null
+    },
+    {
+        "text": "Claimed you were so proud and open.",
+        "start": 143614,
+        "end": 147194,
+        "sentiment": "POSITIVE",
+        "confidence": 0.836871325969696,
+        "speaker": null
+    },
+    {
+        "text": "Call out my name when I kiss you so tell me go I can't you wait why can't you until I fall out I'm laughing when I kiss you so tell me go I can't do it why can't you wait till I fall out of love for some woman and when I kiss you so tell me I want you to stay I want you to stay I don't want to call out my name call out my name I kiss you so gently go I can't do it till I fall out I'm not far to move.",
+        "start": 186814,
+        "end": 279574,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5377377867698669,
+        "speaker": null
+    }
+]
